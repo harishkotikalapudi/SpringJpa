@@ -1,0 +1,4 @@
+insert into alien values(101, 'harish','java');
+insert into alien values(102, 'harish','c');
+insert into alien values(103, 'harish','php');
+insert into alien values(104, 'harish','java');
